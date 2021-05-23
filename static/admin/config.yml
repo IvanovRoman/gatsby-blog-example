@@ -1,6 +1,5 @@
 backend:
   name: git-gateway
-  repository: IvanovRoman/gatsby-blog-example
   branch: master
 
 media_folder: static/img
