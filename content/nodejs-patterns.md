@@ -1,5 +1,5 @@
 ---
-path: nodejs-patterns
+path: /blog/nodejs-patterns
 title: NodeJs patterns
 date: 23-05-2021
 ---
